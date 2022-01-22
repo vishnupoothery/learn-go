@@ -1,1 +1,1 @@
-# learn-go
+# Go.learn
